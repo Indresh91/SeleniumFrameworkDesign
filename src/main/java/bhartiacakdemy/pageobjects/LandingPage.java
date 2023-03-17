@@ -22,6 +22,9 @@ public class LandingPage extends AbstractComponents {
 	@FindBy(id = "userEmail")
 	WebElement userName; 
 	
+	@FindBy (id ="userEmail")
+	WebElement usernme; 
+	
 	@FindBy(id = "userPassword")
 	WebElement passwordEle; 
 	
