@@ -12,5 +12,5 @@ Feature: Error Validation
     
     Examples: 
     | email |                | password | 
-    | iks@gmail.com |        |Capital@1| 
-    |shetty@gmail.com|       |Iamking@00|
+    |iks@gmail.com|          |Capital@10| 
+    |shetty@gmail.com|       |Iamking@000|
